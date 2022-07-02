@@ -6,6 +6,6 @@ public class Exercise_01_04{
 		System.out.println("1          1          1");
 		System.out.println("2          4          8");
 		System.out.println("3          9          27");
-		System.out.println("4         16         64");
+		System.out.println("4          16         64");
 	}
 }
